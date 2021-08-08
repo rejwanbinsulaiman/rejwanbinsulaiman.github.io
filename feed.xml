@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Yet Another Data Researcher</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://fnozarian.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://fnozarian.github.io" />
+<updated>2017-05-27T10:53:51+00:00</updated>
+<id>http://fnozarian.github.io/</id>
+<author>
+  <name>Farzad Nozarian</name>
+  <uri>http://fnozarian.github.io/</uri>
+  <email>fnozarian@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[How do I write the first email to a professor for PhD Application]]></title>
+  <link rel="alternate" type="text/html" href="http://fnozarian.github.io/email-to-Supervisor/" />
+  <id>http://fnozarian.github.io/email-to-Supervisor</id>
+  <updated>2015-12-15T00:00:00-00:00</updated>
+  <published>2015-12-15T00:00:00+00:00</published>
+  
+  <author>
+    <name>Farzad Nozarian</name>
+    <uri>http://fnozarian.github.io</uri>
+    <email>fnozarian@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Hey guys,&lt;/p&gt;
+
+&lt;p&gt;I decided to summarize what I’ve learned during the process of &lt;em&gt;“Sending a PhD Application Letter to a Supervisor”&lt;/em&gt;. I hope you find this summarization helpful. Don’t hesitate to leave  a comment and share your idea.&lt;/p&gt;
+
+&lt;p&gt;Thanks,
+Farzad.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;general-notes&quot;&gt;General Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;The first contact should not be a spam letter, that is, a letter that you could easily have sent to 1000 faculty members worldwide, and probably did.:
+    &lt;ul&gt;
+      &lt;li&gt;It is addressed to “Dear Professor” and does not mention the project name or the university, even though you think my work is wonderful and desperately want to work with me.&lt;/li&gt;
+      &lt;li&gt;The letter gives no indication that the writer has spent even a few minutes looking at the online materials related to my work.&lt;/li&gt;
+      &lt;li&gt;First take some time to find out what kind of research the supervisor really do.&lt;/li&gt;
+      &lt;li&gt;Do your homework.  Then write me a brief letter, making specific reference to all of that.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tell about yourself and graduate major and also, for what term you will be applying to and university name.&lt;/li&gt;
+  &lt;li&gt;Make clear what you are asking.
+    &lt;ul&gt;
+      &lt;li&gt;Don’t beat about the bush with “I’m interested in your research” or “I’d like to become involved”. State clearly that you’re interested in doing a PhD, and that you are interested in having them as a supervisor. If you’re not sure that they are the right supervisor, it’s okay to say so. “Your work on xxx and yyy led me to think you might be a suitable supervisor. I’d like to discuss my work so far with you with a view to potential supervision.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Make the funding situation clear.
+    &lt;ul&gt;
+      &lt;li&gt;“Once I’ve found a supervisor, I’m hoping to apply for a scholarship through …”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Show that you are serious and well qualified.&lt;/li&gt;
+  &lt;li&gt;Show that you have done thorough research and utilized all the freely available information on the website.&lt;/li&gt;
+  &lt;li&gt;Show that you are familiar with the professor’s work.&lt;/li&gt;
+  &lt;li&gt;Show that you respect the professor’s time.&lt;/li&gt;
+  &lt;li&gt;Attach a CV, transcript, and a paper you’ve done&lt;/li&gt;
+  &lt;li&gt;Check with the time-zone before sending the email.
+    &lt;ul&gt;
+      &lt;li&gt;This is to ensure that your email is probably the latest one to reach his/her office when he/she comes to the office.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Send a reminder in the same thread after one week of requesting response to be assured of your mail not skipping the Professor’s sight somehow.&lt;/li&gt;
+  &lt;li&gt;Sometimes mailing the PhD students of the professor is more beneficial than mailing the professor itself.&lt;/li&gt;
+  &lt;li&gt;To sum up all of the above: You don’t need to be great at research (there are further milestones to demonstrate that), but you should be able to show that you have the capability of doing research.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;mail-content&quot;&gt;Mail Content&lt;/h2&gt;
+
+&lt;h3 id=&quot;introduce-and-your-interests&quot;&gt;Introduce and your interests&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;I am a graduate student in X.&lt;/li&gt;
+  &lt;li&gt;My name is X X. I received my B.Sc. degree from X University of Technology, Tehran, Iran.&lt;/li&gt;
+  &lt;li&gt;I am a graduate student of Photonics from Shahid Beheshti University (Tehran, Iran) with a background on {my research}, highly interested in your research area.&lt;/li&gt;
+  &lt;li&gt;I have recently graduated from the University of Tehran, which is the oldest and most prestigious university of Iran, with an M.Sc. degree in Electrical Engineering, xxx, and decided to pursue my studies as a PhD student at a prestigious Canadian university.&lt;/li&gt;
+  &lt;li&gt;I am writing to inquire about the announced PhD positions in X, announced on your web page.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;whats-your-goal&quot;&gt;Whats your goal&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;I would like for you to supervise my PhD.&lt;/li&gt;
+  &lt;li&gt;Currently, I am looking for universities and available positions to resume my education in the direct PhD program.&lt;/li&gt;
+  &lt;li&gt;The project seems very attractive and I am extremely interested in working on it under your supervision.&lt;/li&gt;
+  &lt;li&gt;It would be really an honor for me to pursue my studies under your supervision since, regarding your papers especially “…….”, I found a close relationship between your interests and mine.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;do-your-homework-research-before-you-search&quot;&gt;Do your Homework! Research before you search&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;I have read your papers X, Y and Z and have a few questions about how the work might be extended.  Should I send these questions to one of your Ph.D. students or may I send them to you directly?&lt;/li&gt;
+  &lt;li&gt;I’ve read some of your papers such as “XXX”. They are best compatible to my research interest. I am very eager to know your opinion regarding my case in applying to XXX Especially I would be really interested if I have the chance to become a member of your team.&lt;/li&gt;
+  &lt;li&gt;I read paper entitled ‘D’ published by your group at ‘E’ and was interested in …&lt;/li&gt;
+  &lt;li&gt;I recently published a paper ‘F’, which I believe compliments work by ‘G’ in your department on ‘H’&lt;/li&gt;
+  &lt;li&gt;I have read your recent journal paper entitled “xx”. As mentioned in the conclusion, the proposed observer may be applicable in the xx. I have gotten very interested in this issue and chosen it as the most likely field on which I want to work if I will be a Ph.D. student.&lt;/li&gt;
+  &lt;li&gt;During the last two years, I have been tracking your website and found that you have a vibrant research group.&lt;/li&gt;
+  &lt;li&gt;As evidence of my real interest in xx, during my M.Sc. I worked as a research assistant in xx Lab under the supervision of Prof.xx who is one of the most prominent professors on xx in Iran.&lt;/li&gt;
+  &lt;li&gt;After going through your laboratory’s webpage, I found myself really interested in your research about the XXX and its promising prospects of xx.&lt;/li&gt;
+  &lt;li&gt;Regarding your excellent research background and reference publications in XXXX group, I believe that joining your group will help me to improve my knowledge in the same field.&lt;/li&gt;
+  &lt;li&gt;I read [1,2] to know more about your work on observer design in which I’m currently preparing a paper to submit to EJC. I’ve also read [2] to get a general overview of the battery modeling. This paper really interested me in the first part of the project, failure modeling.&lt;/li&gt;
+  &lt;li&gt;I have read your related research works to my interests. They sound so interesting, especially your recent paper “…….”. I think my background is in line with yours in perspective of PPP&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cv-application-date-or-available-positions&quot;&gt;CV, Application Date or Available positions&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;It would be highly appreciated if you take a look on the attached file which is my CV&lt;/li&gt;
+  &lt;li&gt;I would like to appreciate your kindly response and reviewing my C.V as well&lt;/li&gt;
+  &lt;li&gt;I would appreciate it if you could take a look at my CV attached, and inform me upon any probable position for the fall 2016.&lt;/li&gt;
+  &lt;li&gt;I would be really grateful if you could please tell me whether there are any available positions for the Fall 2016 semester in your lab, so I can pursue my studies under your supervision.&lt;/li&gt;
+  &lt;li&gt;Please find attached my CV along with some highlights of my academic background&lt;/li&gt;
+  &lt;li&gt;I would appreciate if you could provide me any advice on this endeavor, wondering if there is any chance for me to be one of your PhD students&lt;/li&gt;
+  &lt;li&gt;For more information, I have attached my resume as a PDF file&lt;/li&gt;
+  &lt;li&gt;I would like to ask you whether there is any available PhD position in your group for Spring 2016 and whether I have the chance to join your group&lt;/li&gt;
+  &lt;li&gt;Please find my Resume for your kindly review.&lt;/li&gt;
+  &lt;li&gt;I would like to know if there is any chance for me to pursue my PhD under your supervision.&lt;/li&gt;
+  &lt;li&gt;Please kindly consider my CV attached to this e-mail for more information.&lt;/li&gt;
+  &lt;li&gt;I would be grateful if you could take a look at the CV and let me know upon your evaluation.&lt;/li&gt;
+  &lt;li&gt;In response to a PhD opening position announcement on your website, I sent my attached CV to you for your consideration.&lt;/li&gt;
+  &lt;li&gt;I really appreciate it if you could tell me whether there is any chance for me to join your Ph.D. program.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;make-the-funding-situation-clear&quot;&gt;Make the funding situation clear&lt;/h3&gt;
+
+&lt;h3 id=&quot;be-respectful-of-their-precious-time&quot;&gt;Be respectful of their precious time&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;I know you’re very busy so I appreciate any time you can give me.  Thanks very much,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;thanks-and-im-waiting-for-your-response&quot;&gt;Thanks and I’m waiting for your response&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Thanks for your time, and I hope to hear from you soon!&lt;/li&gt;
+  &lt;li&gt;Thank you in advance for taking the time and reading my email, I look forward to your kind response. Yours respectfully&lt;/li&gt;
+  &lt;li&gt;I look forward to hearing from you.&lt;/li&gt;
+  &lt;li&gt;I’d like to inquire whether you are currently accepting PhD students.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;etc&quot;&gt;etc.&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;I feel confident that joining as a PhD student to The University of xx under your supervision will help me fulfill my ambition as a researcher.&lt;/li&gt;
+  &lt;li&gt;My thesis ,entitled “Vehicle Model Recognition Using Image Processing and Wavelet Analysis”, is being done and a paper has been submitted to International&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;samples&quot;&gt;Samples:&lt;/h2&gt;
+
+&lt;p&gt;Dear Prof. X,&lt;/p&gt;
+
+&lt;p&gt;Hi,
+My name is X X. I received my B.Sc. degree from X University of Technology, Tehran, Iran. Currently, I am looking for universities and available positions to resume my education in the direct PhD program. After going through your laboratory’s webpage, I found myself really interested in your research about the XXX and its promising prospects of xx.
+I would be really grateful if you could please tell me whether there are any available positions for the Fall 2016 semester in your lab, so I can pursue my studies under your supervision. Please find attached my CV along with some highlights of my academic background&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Dear professor&lt;/p&gt;
+
+&lt;p&gt;I am a graduate student of Photonics from Shahid Beheshti University (Tehran, Iran) with a background on {my research}, highly interested in your research area. I am eager to join your research group; therefore, I would appreciate if you could provide me any advice on this endeavor, wondering if there is any chance for me to be one of your PhD students. For more information, I have attached my resume as a PDF file&lt;/p&gt;
+
+&lt;p&gt;Thank you in advance for taking the time and reading my email,
+I look forward to your kind response
+Yours respectfully&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I have recently graduated from the University of Tehran, which is the oldest and most prestigious university of Iran, with an M.Sc. degree in Electrical Engineering, xxx, and decided to pursue my studies as a PhD student at a prestigious Canadian university. Currently, I am searching for a supervisor who works on xxx to.
+I read your your xx book as one of the references of xx course which I attended in spring 2013. During this course, I understood that you are a prominent professor in the area of xx. During the last two years, I have been tracking your website and found that you have a vibrant research group. Therefore, in this writer’s view joining to your team and working under your supervision would be a great opportunity for anyone who is interested in xx, including me. As evidence of my real interest in xx, during my M.Sc. I worked as a research assistant in xx Lab under the supervision of Prof.xx who is one of the most prominent professors on xx in Iran.
+I have read your recent journal paper entitled “xx”. As mentioned in the conclusion, the proposed observer may be applicable in the xx. I have gotten very interested in this issue and chosen it as the most likely field on which I want to work if I will be a Ph.D. student.
+I feel confident that joining as a PhD student to The University of xx under your supervision will help me fulfill my ambition as a researcher. I would appreciate it if you could take a look at my CV attached, and inform me upon any probable position for the fall 2016.
+Thanks for your time, and I hope to hear from you soon!
+Sincerely&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Dear Prf. Dr. XXX
+I have graduated from University of Amirkabir-Iran in Nuclear engineering-MSc level concentrating in the field of “Application of Radiation” research. 
+I have been studying radiation detectors include HPGe and NaI (Tl) detectors to create(better say “modify” if it is not actually a creation but rather a modification of an existing model) and develop a valid simulation models for them based on experimental results I had already in hand considering from my master thesis` research and results
+I would like to continue my research mainly in the fields of “Medical Application of Radiation” including those used in Radiotherapy, Radio- diagnostic and medical dosimetery procedures. Regarding your excellent research background and reference publications in XXXX group, I believe that joining your group will help me to improve my knowledge in the same field. I would like to ask you whether there is any available PhD position in your group for Spring 2016 and whether I have the chance to join your group
+Enclosed please find my Resume for your kindly review.
+Best Regards
+Mohammadtaghi haj heidari&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Dear professor&lt;/p&gt;
+
+&lt;p&gt;I am an MSc graduate student in medical physics at Tehran University of Medical Science (TUMS), Tehran, Iran. I studied the effect of radiation and nano particles on cancer cells during my thesis. After graduation I work as a medical physicist in Yazd radiation oncology center, which helped me to learn more about radiotherapy, as well as working in interdisciplinary work environments. As a medical physicist, I also do clinical tasks and work on practical research projects in our department.
+Beyond my research successes (including 2 conference proceedings and 3 journal articles to date), I have actively participated in workshops and congresses in my hometown country. I have also taken many relevant courses, which have helped me to enhance my capabilities. So, when I visited your research group website, I found that my research interests in line with you. I found a great interest on IMRT, IGRT and 4D treatment planning as advanced precise radiotherapy methods and eager to do research in these areas. Thus, I am quite interested in the ongoing research program at your institute.
+I would like to know if there is any chance for me to pursue my PhD under your supervision. Please kindly consider my CV attached to this e-mail for more information. I look forward to hearing from you.
+Best,&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I am writing to inquire about the announced PhD positions in X, announced on your web page.&lt;/p&gt;
+
+&lt;p&gt;I graduated from the University of Tehran, the 1th-ranked university of Iran, with an MSc degree in Electrical Engineering, Control Systems. Briefly, the focus of my master’s thesis was on the design of an emotional observer-based controller with application to robotics.&lt;/p&gt;
+
+&lt;p&gt;I read [1,2] to know more about your work on observer design in which I’m currently preparing a paper to submit to EJC. I’ve also read [2] to get a general overview of the battery modeling. This paper really interested me in the first part of the project, failure modeling. Besides, I have a strong background in the area of nonlinear control systems as well as data-driven fault detection plans. Thus, I believe that I’m a good fit for the position, and in response to the announcement, I sent my CV attached to you for your assessment in case the position is not filled.&lt;/p&gt;
+
+&lt;p&gt;I would be grateful if you could take a look at the CV and let me know upon your evaluation.&lt;/p&gt;
+
+&lt;p&gt;Thanks for your time, and I look forward to hearing from you.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Dear Dr. xxxx,&lt;/p&gt;
+
+&lt;p&gt;I graduated from the University of Tehran with an MSc degree in Electrical Engineering, Control systems, and would like to pursue my studies toward a PhD at SFU on pattern 
+recognition.&lt;/p&gt;
+
+&lt;p&gt;Regarding my field of study, I have a good background in the area of model analysis and controller design as well as pattern recognition and modeling of electric and physical systems. I am also familiar with vibration analysis. Thus in response to a PhD opening position announcement on your website, I sent my attached CV to you for your consideration. The project seems very attractive and I am extremely interested in working on it under your supervision.&lt;/p&gt;
+
+&lt;p&gt;I would be grateful if you could take a look at the CV and let me know whether I meet the minimum qualifications for the project as well as whether you encourage me to apply for the position.
+Thanks for your time and also your attractive poems on your weblog, and I look forward to hearing from you.&lt;/p&gt;
+
+&lt;p&gt;Sincerely,&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Dear Professor XXX,&lt;/p&gt;
+
+&lt;p&gt;I am a student at XXX College with a major in xxx.  I am a [junior] and will be graduating next May.  I have a [4.0 GPA] and experience in our college’s [summer program in xxx/internship program in xxx/Honors College/etc.].&lt;/p&gt;
+
+&lt;p&gt;I am planning to attend graduate school in xxx, with a focus on xxx.  In one of my classes, “xxx,” which was taught by Professor XXX, I had the chance to read your article, “xxxx.”  I really enjoyed it, and it gave me many ideas for my future research.  I have been exploring graduate programs where I can work on this topic.  My specific project will likely focus on xxxx, and I am particularly interested in exploring the question of xxxxx.&lt;/p&gt;
+
+&lt;p&gt;I hope you don’t mind my getting in touch, but I’d like to inquire whether you are currently accepting graduate students.  If you are, would you willing to talk to me a bit more, by email or on the phone, or in person if I can arrange a campus visit, about my graduate school plans?  I have explored your department’s graduate school website in detail, and it seems like an excellent fit for me because of its emphasis on xx and xx,  but I still have a few specific questions about xx and xxx that I’d like to talk to you about.&lt;/p&gt;
+
+&lt;p&gt;I know you’re very busy so I appreciate any time you can give me.  Thanks very much,&lt;/p&gt;
+
+&lt;p&gt;Sincerely,&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Dear Professor&lt;/p&gt;
+
+&lt;p&gt;I am a M.Sc. graduate with GPA 17.12/20 in Power Electrical Engineering from AmirKabir University of Technology, having the distinguished Center of Excellence in Power System in my country, Iran. I did my thesis consulting the best professor in field of Power Systems Protection in Iran and also carried out some project cooperating with one of the superior researchers in Iran. It would be really an honor for me to pursue my studies under your supervision since, regarding your papers especially “…….”, I found a close relationship between your interests and mine. I really appreciate it if you could tell me whether there is any chance for me to join your Ph.D. program. I look forward your response. In terms of knowing more about me, my CV has been attached to the e-mail.&lt;/p&gt;
+
+&lt;p&gt;Sincerely&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/Graduate-School-Admissions/How-do-I-write-the-first-email-to-a-professor-that-may-accept-me-as-his-graduate-student&quot;&gt;quora.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.applyabroad.org/forum/forumdisplay.php?63-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%D8%A7%D9%86&quot;&gt;applyabroad.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://fnozarian.github.io/email-to-Supervisor/&quot;&gt;How do I write the first email to a professor for PhD Application&lt;/a&gt; was originally published by Farzad Nozarian at &lt;a href=&quot;http://fnozarian.github.io&quot;&gt;Yet Another Data Researcher&lt;/a&gt; on December 15, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
